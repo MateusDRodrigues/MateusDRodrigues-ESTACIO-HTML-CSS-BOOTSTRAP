@@ -79,7 +79,9 @@
 
 /* inicio da sessao 5 ---------------------- */
 .section5 {
-    background-color: rgb(0, 51, 78);
+    background-image: url('../img/tecnologia-wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
     padding-top: 10vh;
     padding-bottom: 10vh;
     text-align: center;
