@@ -1,9 +1,12 @@
 .section1 {
-    background-color: rgb(0, 0, 0);
+    background-image: url('../img/tecnologia-wallpaper.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
-.conteudo1 img {
-    width: 40vh;
+.section1 .logo img {
+    width: 20vh;
+    margin: 5vh 0px;
 }
 
 .conteudo1 {
@@ -12,3 +15,113 @@
     padding: 0px;
 }
 
+.form {
+    margin-bottom: 10vh;
+}
+
+.section1 .customer-logo img {
+    width: 10vh;
+    margin-bottom: 3vh;
+}
+/* final da sessao 1 ---------------------- */
+
+
+/* inicio da sessao 2 ---------------------- */
+.section2 {
+    background-color: rgb(255, 255, 255);
+}
+
+.conteudo2 {
+    color: rgba(5, 66, 151, 0.749);
+    text-align: center;
+}
+
+.section2 .container {
+    padding-top: 10vh;
+}
+
+.apre2 h1 {
+    padding-bottom: 3vh;
+}
+
+.apre2 img {
+    width: 5vh;
+}
+
+.section2 .service2 {
+    padding-bottom: 3vh;
+}
+/* final da sessao 2 ---------------------- */
+
+
+/* inicio da sessao 3 ---------------------- */
+.section3 {
+    background-color: rgb(23, 37, 56);
+    color: white;
+    padding: 15vh 0vh;
+}
+
+.section3 img {
+    width: 80%;
+}
+/* final da sessao 3 ---------------------- */
+
+
+/* inicio da sessao 4 ---------------------- */
+.section4 {
+    background-color: rgb(225, 249, 255);
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+/* final da sessao 4 ---------------------- */
+
+
+/* inicio da sessao 5 ---------------------- */
+.section5 {
+    background-color: rgb(0, 51, 78);
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    text-align: center;
+    color: white;
+}
+
+.section5 h1 {
+    padding-bottom: 5vh;
+}
+
+.section5 img {
+    width: 10%;
+}
+
+.section5 h5 {
+    padding-top: 10vh;
+    padding-bottom: 5vh;
+}
+
+/* final da sessao 5 ---------------------- */
+
+
+/* inicio da sessao 6 ---------------------- */
+.section6 {
+    background-color: rgb(173, 173, 173);
+    padding-top: 15vh;
+    padding-bottom: 5vh;
+    color: white;
+    text-align: center;
+}
+/* final da sessao 6 ---------------------- */
+
+.footer{
+    background-color: rgb(37, 59, 86);
+    padding: 1vh;
+}
+
+.footer img {
+    width: 10vh;
+}
+
+.footer p {
+    color: white;
+    text-align: right;
+}
