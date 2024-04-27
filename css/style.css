@@ -9,8 +9,6 @@
 .conteudo1 {
     color: white;
     text-align: center;
+    padding: 0px;
 }
 
-.section1 .conteudo img {
-    width: 30vh;
-}
