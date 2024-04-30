@@ -69,7 +69,8 @@
 
 /* inicio da sessao 4 ---------------------- */
 .section4 {
-    background-color: rgb(225, 249, 255);
+    background-color: rgb(255, 255, 255);
+    color: rgba(5, 66, 151, 0.749);
     padding-top: 10vh;
     padding-bottom: 10vh;
 }
@@ -106,16 +107,17 @@
 
 /* inicio da sessao 6 ---------------------- */
 .section6 {
-    background-color: rgb(173, 173, 173);
     padding-top: 15vh;
     padding-bottom: 5vh;
-    color: white;
     text-align: center;
+    background-color: rgb(23, 37, 56);
+    color: white;
 }
 /* final da sessao 6 ---------------------- */
 
 .footer{
     background-color: rgb(37, 59, 86);
+    font-size: 70%;
     padding: 1vh;
 }
 
